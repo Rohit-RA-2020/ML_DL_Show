@@ -6,3 +6,5 @@ Two files are for Convolutional layers.
 Dataset is of cat vs Dog from kaggle.
 
 Link for dataset:- https://www.kaggle.com/c/dogs-vs-cats/data
+
+Added few images in test an training folder just for reference
